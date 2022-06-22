@@ -1,0 +1,16 @@
+.select {
+    width: 90%;
+    text-align: center;
+    margin: 5%;
+    background-color:  #ecf0f3;
+    padding: 15px 10px 15px 5px;
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 5px #cbced1, inset -5px -5px 5px #ffffff;
+    border-color: #cbced1;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:15px
+  }
+
+option {
+    font-family: 'Noto Sans', sans-serif;
+}

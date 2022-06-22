@@ -1,0 +1,77 @@
+.gfg-div {
+    display: flex;
+    justify-content: center;
+}
+
+.form_btn_2 {
+    box-shadow: -5px -5px 10px #fff, 5px 5px 8px #babebc;
+    background-color: #ff4b2b;
+    color: white;
+    width:70%
+}
+
+.contain {
+    padding: 10% 5% 10%;
+}
+
+.try_again {
+    margin-top: 2%;
+    align-items: center
+}
+
+.errorMessage {
+    margin : 0;
+    color : red
+}
+
+.try_again .errorButton {
+    margin-top:1%;
+    margin-left: 20%;
+    
+}
+
+.file_upload {
+    /* white-space: nowrap; */
+    text-align: center;
+    padding: 2%;
+}
+
+.upload_banner {
+    /* display: inline-block; */
+    margin: 0 5% 4% 0;
+    color: #ff4b2b;
+    font-size: 25px;
+
+}
+
+.upload input {
+    /* display: inline-block; */
+    padding:2%
+}
+
+.Select {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%
+}
+
+.state {
+    margin: 1%;
+    padding: 3%
+}
+
+.city {
+    margin: 1%;
+    padding: 3%
+}
+
+.operators {
+    margin: 1%;
+    padding: 3%
+}
+
+.box {
+    height: 100%;
+}

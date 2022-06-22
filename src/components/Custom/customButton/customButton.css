@@ -1,0 +1,9 @@
+.overlay_btn {
+    background-color: #ff4b2b;
+    color: #ff4b2b;
+    box-shadow: -5px -5px 10px #ff6b3f, 5px 5px 8px #bf4b2b;
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+  }
